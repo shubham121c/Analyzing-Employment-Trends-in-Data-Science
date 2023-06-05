@@ -27,3 +27,9 @@ The columns explanation are as follows,
 11. Industry, Sector: Field applicant will work in
 12. Revenue: Total revenue of the company
 13. Competitors: Competitors of the company
+
+Project involved:
+Data cleaning
+Feature engineering
+EDA
+Data intrepretation and analysis
